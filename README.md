@@ -7,7 +7,8 @@ Je conçois et développe un ensemble de logiciels destinés à simplifier la ge
 L'univers **BAMOR** repose sur une approche commune : des applications indépendantes, complémentaires et conçues pour fonctionner ensemble.
 
 ## L'univers BAMOR
-
+<div align="center">
+  
 | Logiciel | Domaine |
 |---|---|
 | **BAMOR Hollved** | Environnement central et interconnexion des applications |
@@ -16,6 +17,8 @@ L'univers **BAMOR** repose sur une approche commune : des applications indépend
 | **BAMOR Glad** | Gestion du patrimoine personnel |
 | **BAMOR Lizher** | Messagerie et communications |
 | **BAMOR Skeledenn** | Architecture et composants communs aux logiciels |
+
+</div>
 
 ## Développement
 

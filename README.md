@@ -6,19 +6,73 @@ Je conçois et développe un ensemble de logiciels destinés à simplifier la ge
 
 L'univers **BAMOR** repose sur une approche commune : des applications indépendantes, complémentaires et conçues pour fonctionner ensemble.
 
-## L'univers BAMOR
-<div align="center">
-  
-| Logiciel | Domaine |
-|---|---|
-| **BAMOR Hollved** | Environnement central et interconnexion des applications |
-| **BAMOR Gestion** | Gestion d'entreprise, affaires, finances et pilotage |
-| **BAMOR Atelier** | Gestion de production, fabrication et traçabilité |
-| **GLAD** | Gestion du patrimoine personnel |
-| **LIZHER** | Messagerie et communications |
-| **BAMOR Skeledenn** | Architecture et composants communs aux logiciels |
 
-</div>
+
+## L'univers BAMOR
+
+<h3><sub>ÉCOSYSTÈME BAMOR</sub></h3>
+
+<table align="center" width="600">
+  <thead>
+    <tr>
+      <th width="165">Logiciel</th>
+      <th width="435">Domaine</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAMOR Hollved</b></td>
+      <td>Environnement central et interconnexion des applications</td>
+    </tr>
+    <tr>
+      <td><b>BAMOR Gestion</b></td>
+      <td>Gestion d'entreprise, affaires, finances et pilotage</td>
+    </tr>
+    <tr>
+      <td><b>BAMOR Atelier</b></td>
+      <td>Gestion de production, fabrication et traçabilité</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3><sub>LOGICIELS INDÉPENDANTS</sub></h3>
+
+<table align="center" width="600">
+  <thead>
+    <tr>
+      <th width="165">Logiciel</th>
+      <th width="435">Domaine</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>GLAD</b></td>
+      <td>Gestion du patrimoine personnel</td>
+    </tr>
+    <tr>
+      <td><b>LIZHER</b></td>
+      <td>Messagerie et communications</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3><sub>ARCHITECTURE & DÉVELOPPEMENT</sub></h3>
+
+<table align="center" width="600">
+  <thead>
+    <tr>
+      <th width="165">Projet</th>
+      <th width="435">Fonction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>BAMOR Skeledenn</b></td>
+      <td>Architecture et composants communs aux logiciels</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Développement
 

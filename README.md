@@ -14,8 +14,8 @@ L'univers **BAMOR** repose sur une approche commune : des applications indépend
 | **BAMOR Hollved** | Environnement central et interconnexion des applications |
 | **BAMOR Gestion** | Gestion d'entreprise, affaires, finances et pilotage |
 | **BAMOR Atelier** | Gestion de production, fabrication et traçabilité |
-| **BAMOR Glad** | Gestion du patrimoine personnel |
-| **BAMOR Lizher** | Messagerie et communications |
+| **GLAD** | Gestion du patrimoine personnel |
+| **LIZHER** | Messagerie et communications |
 | **BAMOR Skeledenn** | Architecture et composants communs aux logiciels |
 
 </div>

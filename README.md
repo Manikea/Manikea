@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bonjour, moi c'est Yann 👋
 
-<!--
-**Manikea/Manikea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Créateur et développeur de l'écosystème logiciel BAMOR
 
-Here are some ideas to get you started:
+Je conçois et développe un ensemble de logiciels destinés à simplifier la gestion, l'organisation et le suivi des activités professionnelles et personnelles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+L'univers **BAMOR** repose sur une approche commune : des applications indépendantes, complémentaires et conçues pour fonctionner ensemble.
+
+## L'univers BAMOR
+
+| Logiciel | Domaine |
+|---|---|
+| **BAMOR Hollved** | Environnement central et interconnexion des applications |
+| **BAMOR Gestion** | Gestion d'entreprise, affaires, finances et pilotage |
+| **BAMOR Atelier** | Gestion de production, fabrication et traçabilité |
+| **BAMOR Glad** | Gestion du patrimoine personnel |
+| **BAMOR Lizher** | Messagerie et communications |
+| **BAMOR Skeledenn** | Architecture et composants communs aux logiciels |
+
+## Développement
+
+Les différents projets sont actuellement en développement, avec une attention particulière portée à l'ergonomie, à la modularité, à la sécurité des données et à l'interopérabilité.
+
+Les codes sources sont conservés dans des dépôts privés.
+
+## Découvrir BAMOR
+
+🌐 [BAMOR Concept](https://bamor-concept.bzh)
+
+*Conception et développement : Yann — Manikea*

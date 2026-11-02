@@ -73,6 +73,22 @@ L'univers **BAMOR** repose sur une approche commune : des applications indépend
   </tbody>
 </table>
 
+<h3><sub>APLLICATION MOBILE</sub></h3>
+
+<table align="center" width="600">
+  <thead>
+    <tr>
+      <th width="165">Projet</th>
+      <th width="435">Fonction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Gally Launcher</b></td>
+      <td>Launcher Android</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Développement
 
